@@ -1,9 +1,9 @@
 ## Hi there, I'm Dan 👋
-Chugging coffee while juggling 2 kids and code. 
+Juggling 2 kids and code with the help of Mr. Tea and Coffee
 
-I'm just a Ruby dude who likes to build cool things.
+I've been labeled a Ruby guy by folks who know me professionally.. I like writing elegant code and building cool things.
 
-Vim is my editor of choice. I prefer `gvim > vim > nvim`
+Vim is my editor of choice ( `gvim > vim > nvim`) and I write a few vim plugins here and there.
 
 [Blog](https://danbradbury.net)
 
